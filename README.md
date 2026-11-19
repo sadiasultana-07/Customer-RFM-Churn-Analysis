@@ -90,3 +90,11 @@ Customer segments include Champions, Loyal, At Risk, Lost, New, and Needs Attent
 **E-Commerce Data Analytics Project**
 
 Tools: SQL Server | Python | Power BI
+
+## Dataset
+
+The project uses the Online Retail II dataset.
+
+The cleaned and processed dataset was generated using SQL Server and Python. It is not included in this repository because of its large file size.
+
+To reproduce the analysis, download the original dataset and run the SQL and Python scripts provided in this repository.
