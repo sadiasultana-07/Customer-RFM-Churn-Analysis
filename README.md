@@ -30,8 +30,6 @@ After preparing the cleaned dataset, I created interactive Power BI dashboards t
 
 ### 1. Business Overview
 
-![Business Overview](images/business-overview.png)
-
 This dashboard provides an overview of e-commerce business performance.
 
 It includes:
@@ -44,8 +42,6 @@ It includes:
 - Revenue analysis by customer segment
 
 ### 2. RFM Analysis
-
-![RFM Analysis](images/rfm-analysis.png)
 
 This dashboard focuses on customer purchasing behaviour using RFM analysis.
 
