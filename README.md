@@ -95,6 +95,6 @@ Tools: SQL Server | Python | Power BI
 
 The project uses the Online Retail II dataset.
 
-The cleaned and processed dataset was generated using SQL Server and Python. It is not included in this repository because of its large file size.
+The original data was cleaned and processed using SQL Server and Python. The final cleaned dataset is not included in this repository because of its large file size.
 
-To reproduce the analysis, download the original dataset and run the SQL and Python scripts provided in this repository.
+The SQL scripts and Python notebook are provided to understand and reproduce the data preparation and analysis.
